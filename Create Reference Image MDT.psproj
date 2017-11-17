@@ -1,0 +1,13 @@
+﻿<Project Synchronized="False" SyncFilter="*.ps1;*.psm1;*.psd1;*.psxml;*.psf;*.pss;*.xml">
+  <Version>2.0</Version>
+  <FileID>d53d5b3c-70d3-42e1-b1ae-ea1376c1fe86</FileID>
+  <ProjectType>0</ProjectType>
+  <Folders />
+  <Files>
+    <File Build="0">Startup.pss</File>
+    <File Build="0" ReferenceFunction="Show-MainForm_psf">MainForm.psf</File>
+    <File Build="0" Shared="True" ReferenceFunction="Invoke-Global_ps1">Globals.ps1</File>
+    <File Build="0" ReferenceFunction="Show-ChildForm_psf">ChildForm.psf</File>
+    <File Build="2">imageedit_3_5588994372.png</File>
+  </Files>
+</Project>
